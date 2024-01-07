@@ -13,9 +13,10 @@ def sum(n):
     
 ```
 2. Skriv en rekursiv funktion, der beregner eksponenten af et tal.
-3. Skriv en funktion der rekursivt skifter mellem at addere og subtrahere tal i en liste. Hvis listen eksempelvis er [5,3,1,2,4] så skal funktionen udregne: 5-3+1-2+4=5.
-4. Skriv en rekursiv funktion der undersøger om et tal er lige eller ulige
-5. Hvad gør følgende funktion. Forklar koden i detaljer:
+3. Skriv en rekursiv funktion, der undersøger om et ord er et palindrome. Dvs. hvorvidt det læses forfra og bagfra på samme måde.
+4. Skriv en rekursiv funktion, der beregner fakulteten af et tal.
+5. Skriv en rekursiv funktion, der returnerer alle tænkelige permutationer af et ord (eksempel: ”abc” så er ”acb” en permutation.
+6. Hvad gør følgende funktion. Forklar koden i detaljer:
 ```python
 import math
 
@@ -32,14 +33,15 @@ def binSearch(n, arr) :
         return binSearch(n, arr[mid:len(arr)-1])
 
 ```
-6. Skriv en rekursiv funktion, der undersøger om et ord er et palindrome. Dvs. hvorvidt det læses forfra og bagfra på samme måde. 
-7. Skriv en rekursiv funktion, der finder største fælles divisor af to tal
-8. Skriv en rekursiv funktion, der returnerer alle tænkelige permutationer af et ord (eksempel: ”abc” så er ”acb” en permutation.
-9. Skriv en rekursiv funktion, der beregner mindste fælles divisor
-10. Skriv en rekursiv funktion der afgør om et naturligt tal er et primtal eller ej. 
-11.  Skriv en rekursiv funktion, der konstruerer Pascals Trekant.	
-12. Skriv en rekursiv funktion, der finder det største tal i en liste
-13. Skriv en rekursiv funktion, der beregner Tribonacci rækkefølgen  (starter med 0,0,1)
+7. Skriv en rekursiv funktion der undersøger om et tal er lige eller ulige
+8. Skriv en rekursiv funktion, der finder største fælles divisor af to tal
+9. 
+10. Skriv en rekursiv funktion, der beregner mindste fælles divisor
+11. Skriv en rekursiv funktion der afgør om et naturligt tal er et primtal eller ej. 
+12.  Skriv en rekursiv funktion, der konstruerer Pascals Trekant.	
+13. Skriv en rekursiv funktion, der finder det største tal i en liste
+14. Skriv en funktion der rekursivt skifter mellem at addere og subtrahere tal i en liste. Hvis listen eksempelvis er [5,3,1,2,4] så skal funktionen udregne: 5-3+1-2+4=5.
+15. Skriv en rekursiv funktion, der beregner Tribonacci rækkefølgen  (starter med 0,0,1)
 
 
 
