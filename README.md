@@ -16,7 +16,7 @@ def sum(n):
 3. Skriv en rekursiv funktion, der undersøger om et ord er et palindrome. Dvs. hvorvidt det læses forfra og bagfra på samme måde.
 4. Skriv en rekursiv funktion, der beregner fakulteten af et tal.
 5. Skriv en rekursiv funktion, der returnerer alle tænkelige permutationer af et ord (eksempel: ”abc” så er ”acb” en permutation.
-6. Hvad gør følgende funktion. Forklar koden i detaljer:
+<!-- 6. Hvad gør følgende funktion. Forklar koden i detaljer:
 ```python
 import math
 
@@ -69,4 +69,4 @@ Herunder beskrives konstruktion i prosakode. Dvs. tekst der er mere eller mindre
 
 3. Fjern den miderste trekant.
 
-4. Gentag trin 2 og 3 for de tre resterende trekanter.# Rekursion
+4. Gentag trin 2 og 3 for de tre resterende trekanter.# Rekursion -->
