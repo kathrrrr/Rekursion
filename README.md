@@ -16,7 +16,8 @@ def sum(n):
 3. Skriv en rekursiv funktion, der undersøger om et ord er et palindrome. Dvs. hvorvidt det læses forfra og bagfra på samme måde.
 4. Skriv en rekursiv funktion, der beregner fakulteten af et tal.
 5. Skriv en rekursiv funktion, der returnerer alle tænkelige permutationer af et ord (eksempel: ”abc” så er ”acb” en permutation.
-<!-- 6. Hvad gør følgende funktion. Forklar koden i detaljer:
+6. Skriv en rekursiv funktion, beregner fibonaccitallene
+7. Hvad gør følgende funktion. Forklar koden i detaljer:
 ```python
 import math
 
@@ -33,15 +34,15 @@ def binSearch(n, arr) :
         return binSearch(n, arr[mid:len(arr)-1])
 
 ```
-7. Skriv en rekursiv funktion der undersøger om et tal er lige eller ulige
-8. Skriv en rekursiv funktion, der finder største fælles divisor af to tal
-9. 
-10. Skriv en rekursiv funktion, der beregner mindste fælles divisor
-11. Skriv en rekursiv funktion der afgør om et naturligt tal er et primtal eller ej. 
-12.  Skriv en rekursiv funktion, der konstruerer Pascals Trekant.	
-13. Skriv en rekursiv funktion, der finder det største tal i en liste
-14. Skriv en funktion der rekursivt skifter mellem at addere og subtrahere tal i en liste. Hvis listen eksempelvis er [5,3,1,2,4] så skal funktionen udregne: 5-3+1-2+4=5.
-15. Skriv en rekursiv funktion, der beregner Tribonacci rækkefølgen  (starter med 0,0,1)
+8. Skriv en rekursiv funktion der undersøger om et tal er lige eller ulige
+9. Skriv en rekursiv funktion, der finder største fælles divisor af to tal
+<!--10. 
+11. Skriv en rekursiv funktion, der beregner mindste fælles divisor
+12. Skriv en rekursiv funktion der afgør om et naturligt tal er et primtal eller ej. 
+13.  Skriv en rekursiv funktion, der konstruerer Pascals Trekant.	
+14. Skriv en rekursiv funktion, der finder det største tal i en liste
+15. Skriv en funktion der rekursivt skifter mellem at addere og subtrahere tal i en liste. Hvis listen eksempelvis er [5,3,1,2,4] så skal funktionen udregne: 5-3+1-2+4=5.
+16. Skriv en rekursiv funktion, der beregner Tribonacci rækkefølgen  (starter med 0,0,1)
 
 
 
